@@ -7,7 +7,7 @@ Furthermore, Jupiter Linux is a gaming-focused Linux distribution that caters to
 # Fuck Windows Switch To Jupiter Linux
 
 There are several reasons why you might want to consider switching from Windows to Jupiter Linux. Firstly, Jupiter Linux is an open-source operating system, which means that it is free to use, modify, and distribute. This can be a huge advantage for those who are looking for a cost-effective alternative to Windows.
-Secondly, Jupiter Linux is based on two popular Linux distributions, GuestSneezeOS and SteamOS. This means that it has a stable and reliable foundation, with access to a large and growing number of software applications.
+Secondly, Jupiter Linux is based on two  Linux distributions, GuestSneezeOS and SteamOS. This means that it has a stable and reliable foundation, with access to a large and growing number of software applications.
 Finally, Jupiter Linux is optimized for Intel and AMD processors, from Celeron 29500 to any Intel i7. This means that it can take full advantage of the latest hardware technologies to deliver superior performance and efficiency.
 So, if you're looking for a more secure, stable, and cost-effective alternative to Windows, then Jupiter Linux could be the perfect choice for you.
 <br>
@@ -37,3 +37,9 @@ Here are the recommended system requirements for Jupiter Linux:
 - A dedicated graphics card with 2GB or more of VRAM, for gaming and other graphics-intensive applications
 
 Please note that these are the recommended requirements, and you may need higher specifications depending on your usage.
+
+<br>
+<br>
+<br>
+
+**Jupiter Linux and GuestSneezeOS are both Trademarks of GuestSneeze Studios LLC**
