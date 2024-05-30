@@ -1,4 +1,4 @@
-# Jupiter Linux
+# Jupiter Linux (Available in 2025)
 ![Jupiter Linux](https://github.com/jupiter-linux/jupiter-linux/assets/163439609/7535ab03-da70-477a-a243-16a2d5ce9c17)
 There exist several compelling reasons for considering a transition from Windows to Jupiter Linux as a preferred operating system. Firstly, Jupiter Linux is an open-source operating system, which grants users the liberty to utilize, customize, and distribute it freely. This feature is advantageous for those seeking a cost-effective alternative to Windows.
 
