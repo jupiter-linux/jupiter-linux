@@ -7,7 +7,7 @@ Furthermore, Jupiter Linux is a gaming-focused Linux distribution that caters to
 
 Here are the system requirements for Jupiter Linux:
 -
-- Intel processor, from Celeron 29500U to any Intel i7
+- Intel processor (64 Bit)
 - AMD processor, with support for 64-bit architecture
 - 4GB of RAM or more
 - At least 20GB of free hard disk space
